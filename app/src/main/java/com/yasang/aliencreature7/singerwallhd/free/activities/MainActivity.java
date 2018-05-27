@@ -1,4 +1,4 @@
-package com.dm.wallpaper.board.sample.activities;
+package com.yasang.aliencreature7.singerwallhd.free.activities;
 
 import android.support.annotation.NonNull;
 
